@@ -15,31 +15,3 @@ img.img-fluid.w-100 {
     color: white;
     border-radius: 10px;
 }
-
-/* Estilos para la gestión de etiquetas */
-.tag-wrapper {
-    display: inline-flex;
-    align-items: center;
-    background-color: #f8f9fa;
-    border-radius: 5px;
-    padding: 2px 5px;
-    margin-bottom: 5px;
-}
-
-.delete-tag-btn {
-    padding: 0 5px;
-    font-size: 0.7rem;
-    line-height: 1;
-    border-radius: 50%;
-    height: 20px;
-    width: 20px;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.tags-list {
-    display: flex;
-    flex-wrap: wrap;
-    margin-top: 5px;
-}
